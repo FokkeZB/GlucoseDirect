@@ -1451,7 +1451,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"App/Preview Content\"";
-				DEVELOPMENT_TEAM = 2B99VVH322;
+				DEVELOPMENT_TEAM = Y39937U7XN;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = App/Info.plist;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
@@ -1462,7 +1462,7 @@
 				);
 				MARKETING_VERSION = "${APP_VERSION}";
 				PRODUCT_BUNDLE_IDENTIFIER = "${PRODUCT_BUNDLE_IDENTIFIER}";
-				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.unlimapps.libre;
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.Y39937U7XN.libre;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -1484,7 +1484,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"App/Preview Content\"";
-				DEVELOPMENT_TEAM = 2B99VVH322;
+				DEVELOPMENT_TEAM = Y39937U7XN;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = App/Info.plist;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
@@ -1495,7 +1495,7 @@
 				);
 				MARKETING_VERSION = "${APP_VERSION}";
 				PRODUCT_BUNDLE_IDENTIFIER = "${PRODUCT_BUNDLE_IDENTIFIER}";
-				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.unlimapps.libre;
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.Y39937U7XN.libre;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -1517,7 +1517,7 @@
 				CODE_SIGN_ENTITLEMENTS = Widgets/Widgets.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 2B99VVH322;
+				DEVELOPMENT_TEAM = Y39937U7XN;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Widgets/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Widgets;
@@ -1531,7 +1531,7 @@
 				);
 				MARKETING_VERSION = "${APP_VERSION}";
 				PRODUCT_BUNDLE_IDENTIFIER = "${PRODUCT_BUNDLE_IDENTIFIER}.Widgets";
-				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.unlimapps.libre.Widgets;
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.Y39937U7XN.libre.Widgets;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -1552,7 +1552,7 @@
 				CODE_SIGN_ENTITLEMENTS = Widgets/Widgets.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 2B99VVH322;
+				DEVELOPMENT_TEAM = Y39937U7XN;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Widgets/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Widgets;
@@ -1566,7 +1566,7 @@
 				);
 				MARKETING_VERSION = "${APP_VERSION}";
 				PRODUCT_BUNDLE_IDENTIFIER = "${PRODUCT_BUNDLE_IDENTIFIER}.Widgets";
-				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.unlimapps.libre.Widgets;
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.Y39937U7XN.libre.Widgets;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
